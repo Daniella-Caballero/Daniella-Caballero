@@ -65,3 +65,13 @@ public class Program
         Daniella.Status();
     }
 }
+
+---
+
+### 🧩 Skill icons
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,python,js,git,linux,windows,vscode,blender,photoshop)](https://skillicons.dev)
+
+</div>
