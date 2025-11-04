@@ -66,12 +66,4 @@ public class Program
     }
 }
 
----
-
-### 🧩 Skill icons
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,python,js,git,linux,windows,vscode,blender,photoshop)](https://skillicons.dev)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
