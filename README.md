@@ -11,9 +11,8 @@ public static class Daniella
     {
         string github = "github.com/Daniella-Caballero";
         string email = "daniellacaballeroo@gmail.com";
-        string discord = "daniella.dev";
 
-        Console.WriteLine($"GitHub: {github}\nEmail: {email}\nDiscord: {discord}");
+        Console.WriteLine($"GitHub: {github}\nEmail: {email}");
     }
 
     // 🌍 About
@@ -32,9 +31,9 @@ public static class Daniella
     {
         var skills = new Dictionary<string, string[]>
         {
-            ["GameDev"] = new [] { "Unity", "C#", "Code Architecture" },
-            ["Programming"] = new [] { "C++", "Python", "JS", "TSX", "Java" },
-            ["Tools"] = new [] { "Git", "VSCode", "Blender" },
+            ["GameDev"] = new [] { "Unity", "Code Architecture" , "Game Design" },
+            ["Programming"] = new [] { "C#", "Python", "JS", "TSX", "Java" },
+            ["Tools"] = new [] { "Git", "VSCode" },
             ["Systems"] = new [] { "Windows", "Linux", "Networking" }
         };
 
@@ -47,7 +46,7 @@ public static class Daniella
     // 💬 Extra Info
     public static void Status()
     {
-        Console.WriteLine("🔭 Currently working on a strategy video game");
+        Console.WriteLine("🔭 Currently working on a strategy game");
         Console.WriteLine("🌱 Learning Git and Code Architecture");
         Console.WriteLine("💬 Languages: Spanish, Catalan, English");
         Console.WriteLine("😄 Pronouns: she/her");
